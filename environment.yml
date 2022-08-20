@@ -1,0 +1,12 @@
+name: titanic
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - seaborn
+  - pandas
+  - tqdm
+  - scikit-learn
+  - ipykernel
+prefix: /home/nico/Documents/miniconda3/envs/titanic
